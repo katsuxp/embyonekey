@@ -25,7 +25,7 @@ https://raw.githubusercontent.com/katsuxp/embyonekey/blob/master/mb3admin.com.ke
 ```
 <br><img src="https://github.com/katsuxp/embyonekey/blob/master/cert0.png"><br>
 <br/>3. 保存后在配置中将mb3admin.com的证书设置为刚导入的的证书
-<br><img src="https://github.comkatsuxp/embyonekey/blob/master/cert1.png"><br>
+<br><img src="https://github.com/katsuxp/embyonekey/blob/master/cert1.png"><br>
 
 
 #### 劫持mb3admin伪站
